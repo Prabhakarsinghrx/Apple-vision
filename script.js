@@ -436,7 +436,7 @@ ctx.drawImage(
 }
 ScrollTrigger.create({
 
-trigger: "#page10>canvas",
+trigger: "#page10",
 pin: true,
 // markers:true,
 scroller: `#main`,
@@ -445,4 +445,4 @@ start: `top top`,
 end: `600% top`,
 });
 }
-canvas();
+canvas()
