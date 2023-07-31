@@ -436,7 +436,7 @@ ctx.drawImage(
 }
 ScrollTrigger.create({
 
-trigger: "#page10",
+trigger: "#page10>canvas",
 pin: true,
 // markers:true,
 scroller: `#main`,

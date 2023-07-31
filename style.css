@@ -415,3 +415,84 @@ nav>button{
     max-height: 100vh;
     z-index: 99;
 }
+
+#page11{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+  background-color: #f5f5f7;
+}
+#page11>h1>span, #page12>h1>span, #page13>h1>span, #page14>h1>span, #page15>h1>span{
+    font-size: 2vw;
+    color: #000;
+}
+
+#page11>h1{
+    width: 18%;
+    position: absolute;
+    z-index: 99;
+    font-size: 1.2vw;
+    left: 15%;
+    top: 20%;
+    color: #9B9BA0;
+}
+#page12{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+     background-color: #f5f5f7;
+}
+#page12>h1{
+    width: 18%;
+    position: absolute;
+    z-index: 99;
+    font-size: 1.2vw;
+    right: 10%;
+    top: 20%;
+    color: #9B9BA0;
+
+}
+#page13{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+      background-color: #f5f5f7;
+}
+#page13>h1{
+    width: 18%;
+    position: absolute;
+    z-index: 99;
+    font-size: 1.2vw;
+    left: 15%;
+    top: 16%;
+}
+#page14{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+      background-color: #f5f5f7;
+}
+#page14>h1{
+    width: 18%;
+    position: absolute;
+    z-index: 99;
+    font-size: 1.2vw;
+    right: 10%;
+    top: 16%;
+    color: #9B9BA0;
+}
+#page15{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+      background-color: #f5f5f7;
+}
+#page15>h1{
+    width: 18%;
+    position: absolute;
+    z-index: 99;
+    font-size: 1.2vw;
+    left: 15%;
+    top: 20%;
+    color: #9B9BA0;
+}
